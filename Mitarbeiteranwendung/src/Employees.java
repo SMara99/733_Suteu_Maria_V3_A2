@@ -1,4 +1,4 @@
-public class Employees {
+public class Office {
     String name;
     int lohn;
     int anzahlStudenten;
