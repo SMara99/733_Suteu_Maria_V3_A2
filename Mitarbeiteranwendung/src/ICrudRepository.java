@@ -1,9 +1,9 @@
 public interface ICrudRepository<E>  {
     /**
-     * @param id
+     * @param name
      */
 
-    E findOne(Long id);
+    E findOne(String name);
 
     /**
      * @return
